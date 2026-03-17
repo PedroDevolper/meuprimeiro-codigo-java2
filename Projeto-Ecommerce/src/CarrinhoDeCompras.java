@@ -13,6 +13,7 @@ public class CarrinhoDeCompras {
         listProdutos.add(livrosFisicos);
         listProdutos.add(eletronicos);
         listProdutos.add(assinaturaDigital);
+        listProdutos.add(eletronicos);
 
         double custoTotal = 0;
         double valorTotalImpostos = 0;
