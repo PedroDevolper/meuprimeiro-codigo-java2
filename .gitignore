@@ -1,0 +1,48 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+
+# Arquivos e configurações do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Pastas de compilação do Java (Onde ficam os .class)
+target/
+build/
+
+# Outros arquivos temporários
+*.log
+*.tmp
+
+
+.Java21.iml
+qodana.yaml

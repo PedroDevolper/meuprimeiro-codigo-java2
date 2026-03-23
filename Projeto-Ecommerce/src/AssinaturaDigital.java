@@ -9,6 +9,7 @@ public class AssinaturaDigital extends Produtos{
     public double getTaxaImposto() {
         double imposto = 0.05;
         return getPrecoBase() * imposto;
+
     }
 
     @Override
